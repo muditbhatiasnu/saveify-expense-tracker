@@ -1,4 +1,4 @@
-// src/components/AddIncomeButton.jsx
+
 import React from 'react';
 
 function AddIncomeButton({ addIncome }) {

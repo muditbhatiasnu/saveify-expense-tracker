@@ -1,4 +1,4 @@
-// src/components/TotalExpenses.jsx
+
 import React from 'react';
 
 function TotalExpenses({ expenses }) {

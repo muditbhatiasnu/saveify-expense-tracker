@@ -5,7 +5,7 @@ function AddExpenseForm({ addExpense }) {
   const [name, setName] = useState('');
   const [amount, setAmount] = useState('');
 
-  // Function to handle form submission
+
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!name || !amount) return;
@@ -36,4 +36,4 @@ function AddExpenseForm({ addExpense }) {
   );
 }
 
-export default AddExpenseForm ;
+export default AddExpenseForm;

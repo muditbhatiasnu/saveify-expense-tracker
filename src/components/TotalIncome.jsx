@@ -1,4 +1,4 @@
-// src/components/TotalIncome.jsx
+
 import React, { useState } from 'react';
 
 function TotalIncome({ incomes }) {
