@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Expense Tracker</h1>
+      <h1>Saveify</h1>
       <AddExpenseForm addExpense={addExpense} />
       <ExpenseList expenses={expenses} deleteExpense={deleteExpense} />
       <TotalExpenses expenses={expenses} />
